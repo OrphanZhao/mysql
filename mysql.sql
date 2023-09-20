@@ -103,4 +103,5 @@ select * from user order by age desc,id asc;
 # 分页查询
 select * from user limit 0,5;
 
+select date_add(now(), interval 70 day )
 
