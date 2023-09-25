@@ -14,7 +14,7 @@
   | upper(s) | 转大写 |
   | lpad(s,n,pad) | 左填充，用字符串 pad 对 str 进行左填充，达到 n 个字符长度 |
   | rpad(s,n,pad) | 右填充，用字符串 pad 对 str 进行右填充，达到 n 个字符长度 |
-  | trim(s) | 去掉字符串首位的空格 |
+  | trim(s) | 去掉字符串首尾的空格 |
   | substring(s,start,len) | 返回 s 从 start 起 len 长度的字符串
   注意 ⚠️：1 就是字符串的第一位，和语言的第一位是 0 不同 |
 
